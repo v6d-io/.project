@@ -1,7 +1,6 @@
 # Maintainer roster for Vineyard
 # Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
 
-# TODO: Add maintainer GitHub handles
 
 #  Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
 maintainers:
@@ -10,5 +9,13 @@ maintainers:
     teams:
       - name: "project-maintainers"
         members:
-          # TODO: Add maintainer handles
-          - github-handle
+          - dashanji
+          - sighingnow
+          - luoxiaojian
+          - septicmk
+          - wenyuanyu
+          - acezen
+          - siyuan0322
+          - andydiwenzhu
+          - vegetableysm
+          - lidh15
